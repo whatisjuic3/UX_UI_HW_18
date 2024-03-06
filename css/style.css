@@ -16,7 +16,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 32px;
-    background: linear-gradient(rgba(37, 39, 37, 0.959), rgba(37, 39, 37, 0.959)),  url("../images/giphy.gif");
+    background: linear-gradient(rgba(37, 39, 37, 0.959), rgba(37, 39, 37, 0.959)),  url("images/giphy.gif");
     
   }
 
